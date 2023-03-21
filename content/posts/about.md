@@ -2,7 +2,7 @@
 title: "关于我"
 date: 2023-03-21T15:20:22+08:00
 draft: false
-tags: []
+tags: ["about"]
 lastmod: ""
 ---
 
